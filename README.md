@@ -1,1 +1,0 @@
-# SuperHero-Angular2
